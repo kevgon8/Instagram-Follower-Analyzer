@@ -11,6 +11,7 @@ Welcome to Instagram Followers Analyzer README. This project lets you analyze yo
 - [Installation](#installation)
 - [Usage](#usage)
 - [Testing](#testing)
+- [Known Issue](#known-issue)
 - [Technologies Used](#technologies-used)
 - [File Structure](#file-structure)
 - [Future Improvements](#future-improvements)
@@ -79,6 +80,16 @@ To use the Instagram Followers Analyzer, follow these steps:
     ```bash
     python test_project.py
     ```
+## Known Issue
+### Date and Month Parsing
+This Instagram Followers Analyzer program relies on specific patterns to parse dates and months from Instagram data. However, Instagram occasionally changes the format in which it sends this information. As a result, the program may not always correctly identify and analyze followers and following data.
+
+### Impact
+If Instagram updates the date and month format, the regular expressions used in this program might fail to match the new patterns, causing inaccurate or incomplete analysis.
+
+### Workaround
+If you encounter any issues, please check for updates or consider modifying the regular expressions in the code to accommodate the new date and month format.
+
 
 ## Technologies Used
 
