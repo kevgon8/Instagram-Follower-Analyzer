@@ -34,12 +34,12 @@ To use the Instagram Followers Analyzer, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/kevgon8/final_project.git
+    git clone https://github.com/kevgon8/instagram-follower-analyzer.git
     ```
 
 2. Navigate into the project directory:
     ```bash
-    cd final_project
+    cd instagram-follower-analyzer
     ```
 
 3. Install dependencies:
@@ -101,7 +101,7 @@ If you encounter any issues, please check for updates or consider modifying the 
 ## File Structure
 
 ```bash
-final_project/
+instagram-follower-analyzer/
 ├── project.py
 ├── README.md
 ├── requirements.txt
