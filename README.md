@@ -1,6 +1,7 @@
 # Instagram Followers Analyzer
 
-#### Video Demo:  <https://youtu.be/tKzBaumflmU>
+**Video Demo:**  
+[![Watch the video](https://img.youtube.com/vi/tKzBaumflmU/hqdefault.jpg)](https://youtu.be/tKzBaumflmU)
 
 #### Description:
 This project lets you analyze your Instagram followers and following lists. It's built using Python and Tkinter for the GUI. This tool allows users to input their followers and following lists, analyzes the data to identify users who don't follow back and users you don't follow back, and displays the results in a graphical user interface.
