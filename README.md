@@ -135,6 +135,13 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 Kevin Gonsalves
 
+
+***Please be sure to check out my other repositories too!***
+- [CS50P Problem Sets](https://github.com/kevgon8/CS50P-Problem-Sets-Solutions)
+- [Simple User Authentication System](https://github.com/kevgon8/User-Authentication-System)
+- [Simple User Authentication System](https://github.com/kevgon8/User-Authentication-System)
+
+
 ## Contact
 
 For questions or feedback regarding Instagram Followers Analyzer, feel free to reach out:
