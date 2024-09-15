@@ -1,5 +1,5 @@
 import pytest
-from final_project.project import process_txtwidget_input, count_followers_n_following, analyze_followers, create_file
+from project import process_txtwidget_input, count_followers_n_following, analyze_followers, create_file
 import os
 
 
