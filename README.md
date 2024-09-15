@@ -50,7 +50,7 @@ To use the Instagram Followers Analyzer, follow these steps:
 ## Usage
 
 - To run the Instagram Followers Analyzer:
-    -  Execute the following command in your terminal:
+    -  Run the following command in your terminal:
 
     ```bash
     python project.py
